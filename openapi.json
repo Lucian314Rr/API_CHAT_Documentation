@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "Sample API",
-    "description": "Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.",
+    "title": "Chat API",
+    "description": "API para funcionamento de um chat online",
     "version": "0.1.9"
   },
   "servers": [
